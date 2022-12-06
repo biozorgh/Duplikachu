@@ -1,6 +1,5 @@
 {*******************************************************************************
- baLibom, Copyright (c) 2011, SMD Systems SAS
- Matthieu LAURENT
+  Matthieu LAURENT
  unité
 *******************************************************************************}
 unit uSelectFolder;
