@@ -187,7 +187,6 @@ end;
 procedure TMainForm.MenuSearchClick(Sender: TObject);
 var SearchFolder : string;
 begin
-  SearchFolder := 'C:\Users\matthieu\Desktop\Duplica'; // ##############
   if SelectFolder('Choisir le lecteur ou le dossier à inspecter pour l''analyse. La recherche de réplique de fichiers s''ajoute à l''éventuelle recherche précedente.', '', SearchFolder, self.Handle, false) then
   begin
     CancelTask := False;
