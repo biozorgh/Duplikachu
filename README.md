@@ -2,7 +2,8 @@
 
 ![Alt text](_gfx/icon150.png?raw=true "Duplikachu")
 
-* Logiciel de recherche de répliques de fichiers (qui marche aussi sur des lecteurs réseaux).
+* Logiciel de recherche de répliques de fichiers sous Windows
+* Recherche aussi sur des lecteurs réseaux (et gratuitement).
 * Développé sous Delphi 10.3 (Windows 32/64).
 * Développé en 2 jours.
 
